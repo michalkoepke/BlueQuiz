@@ -172,6 +172,7 @@ button:active {
 
 .box-inline-top {
   padding: 0;
+  padding-left: 2rem;
   width: auto;
   text-align: center;
   display: flex;
@@ -179,6 +180,13 @@ button:active {
   align-items: start;
   box-sizing: border-box;
 }
+
+
+.title-box {
+
+  box-sizing: border-box;
+}
+
 
 .box-inline {
   padding: 0;
