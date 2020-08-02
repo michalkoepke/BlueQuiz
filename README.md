@@ -1,1 +1,1 @@
-Just a simple JavaScript Quiz.
+Just a simple one page JavaScript Quiz.

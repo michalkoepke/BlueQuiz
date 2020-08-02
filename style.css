@@ -18,7 +18,8 @@ body {
 
   --accent: #ff8c00;
 
-  background-image: url(/img/blue1.jpg);
+  background-image: url("/img/blue1.jpg");
+  /* background-image: url(/img/blue1.jpg); */
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
