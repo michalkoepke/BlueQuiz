@@ -6,6 +6,8 @@ body {
   margin: 0;
   padding: 0;
 
+  --darkest: #041218;
+
   --dark: #0a2b39;
 
   --dark2: #155671;
@@ -206,6 +208,11 @@ footer {
   background-color: var(--dark);
   height: auto;
   box-sizing: border-box;
+}
+
+.footer-small {
+  background-color: var(--darkest);
+  /* height: 100px; */
 }
 
 .special-link {
